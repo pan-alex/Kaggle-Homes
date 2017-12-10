@@ -1,0 +1,12 @@
+1. Read
+  - Reads in the data
+
+2. Functions
+  - All custom function calls are stored here
+
+3. Munging
+  - All major data manipulations. The data are then saved into a new .csv file
+  
+4. Run
+  - Once the data have been tidied, load the tidy .csv and run the script to generate
+the submission
